@@ -68,7 +68,7 @@ Ce modèle peut être représenté par la figure suivante.
 
 ![Modèle MVC en image](images/communication_mvc.png)
 
-## LE modèle MVC : en pratique
+## Le modèle MVC : en pratique
 
 Le schéma précédent est très global, afin de vous permettre de bien visualiser l'ensemble du système.
 Tout cela est encore assez abstrait, et c'est volontaire !
